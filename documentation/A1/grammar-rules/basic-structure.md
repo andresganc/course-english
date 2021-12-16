@@ -1,0 +1,2 @@
+
+SUJECT - VERB - OBJECT

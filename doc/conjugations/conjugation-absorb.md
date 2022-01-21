@@ -1,4 +1,4 @@
-Indicative
+## Indicative
 
 Present
 
@@ -109,7 +109,7 @@ you will have been absorbing
 they will have been absorbing
 
 
-Conditional
+## Conditional
 
 Present
 
@@ -148,23 +148,22 @@ you would have been absorbing
 they would have been absorbing
 
 
-Imperative
+## Imperative
 
 absorb
 Let's absorb
 absorb
 
 
-Infinitive
+## Infinitive
 
 to absorb
 
 
-Participle
-Present
+## Participle
 
+Present
 absorbing
 
 Past
-
 absorbed

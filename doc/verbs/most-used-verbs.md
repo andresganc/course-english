@@ -1,27 +1,36 @@
 
 
-1. To be – (ser o estar)
-I am
-you are
-he, she, it is
-we are
-they are
-I am who I am.
-Soy quien soy.
+1. Verb: To be – (ser o estar)
+
+Conjugation
+PAST                    PRESENT                 FUTURE 
+I was                   I am                    I will
+You were                You are                 You will
+He was                  He is                   He wil
+She was                 She is                  She will
+It was                  It is                   It will
+We were                 We are                  We wil
+They were               They are                They will
+You were                You are                 You will    (Plural - Ustedes)
+
+Sentences: I am who I am -
+Sentences spanish: Soy quien soy -
+
 
 I am at home.
 Estoy en casa.
 
 (Como puedes observar, en español usamos dos verbos diferentes, ser y estar, mientras que en inglés solo existe un verbo, to be, para los dos significados).
 
-2. To have – (tener)
+2. Verb: To have – (tener)
+
 I have
 you have
 he, she, it has
 we have
 they have
-She has everything her heart desires.
-Ella tiene todo lo que su corazón desea.
+Sentence: She has everything her heart desires.
+Sentence Spanish: Ella tiene todo lo que su corazón desea.
 
 3. To do – (hacer)
 I do

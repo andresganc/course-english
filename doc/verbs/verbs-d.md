@@ -1,0 +1,3 @@
+
+# VERB              PRONUNCIATION           TRANSLATION
+

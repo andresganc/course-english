@@ -1,5 +1,5 @@
 
-# VERB              PRONUNCIATION           TRANSLATION
+# VERB              TRANSLATION             PRONUNCIATION           
 
-messing around      messing around          Jugando
+messing around      Jugando                 messing around          
 

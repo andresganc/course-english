@@ -1,4 +1,4 @@
 
 # VERB              PRONUNCIATION           TRANSLATION
 
-Try                 trī                     Trata
+Try                 Trata                   trī                     

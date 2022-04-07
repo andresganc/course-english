@@ -1,4 +1,5 @@
 
-# ADJECTIVE              PRONUNCIATION           TRANSLATION
+# ADJECTIVE              TRANSLATION                PRONUNCIATION           
 
-Small                    smôl                    Pequeña
+Small                    Pequeña                    smôl
+Sofa                     Sofa                    

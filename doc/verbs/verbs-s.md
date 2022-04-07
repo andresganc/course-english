@@ -1,6 +1,6 @@
 
-# VERB              PRONUNCIATION           TRANSLATION
+# VERB              TRANSLATION             PRONUNCIATION           
 
-Slowly              ˈslōlē                  Despacio
+Slowly              Despacio                ˈslōlē                  
 
-Starters            starters                Entrantes
+Starters            Entrantes               starters                

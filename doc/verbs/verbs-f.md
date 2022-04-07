@@ -1,4 +1,4 @@
 
-# VERB              PRONUNCIATION           TRANSLATION
+# VERB              TRANSLATION             PRONUNCIATION           
 
-Fix                 fiks                    Arreglar
+Fix                 Arreglar                fiks                    

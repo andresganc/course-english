@@ -1,4 +1,4 @@
 
-# ADJETIVES             PRONUNCIATION           TRANSLATION
+# ADJETIVES             TRANSLATION             PRONUNCIATION           
 
-Main course             mān ˈˌkôrs               Plato principal
+Main course             Plato principal         mān ˈˌkôrs               

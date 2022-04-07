@@ -1,3 +1,5 @@
 
-# VERB              PRONUNCIATION           TRANSLATION
+# VERB              TRANSLATION             PRONUNCIATION  
+
+Draw                Dibujar
 

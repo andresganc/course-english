@@ -1,2 +1,4 @@
 
-# VERB              PRONUNCIATION           TRANSLATION
+# VERB              TRANSLATION                 PRONUNCIATION
+
+Chop                Cortar - Picar

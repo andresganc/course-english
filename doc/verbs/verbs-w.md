@@ -1,7 +1,7 @@
 
-# VERB              PRONUNCIATION           TRANSLATION
+# VERB              TRANSLATION             PRONUNCIATION           
 
-Were                wər                      Fueron
+Were                Fueron                  wər                      
 
-Worry               wərē                     Preocuparse
+Worry               Preocuparse             wərē                     
 

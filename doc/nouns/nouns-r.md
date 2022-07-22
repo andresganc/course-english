@@ -1,2 +1,4 @@
 
-# NOUNS             PRONUNCIATION           TRANSLATION
+# NOUNS             TRANSLATION             PRONUNCIATION           
+
+Restroom            Baño

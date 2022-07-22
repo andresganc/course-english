@@ -1,4 +1,12 @@
 
-# NOUNS             PRONUNCIATION           TRANSLATION
+# NOUNS             TRANSLATION             PRONUNCIATION
 
-Bread               bred                    Pan - Pan de molde
+Bread               Pan - Pan de molde      bred 
+Bedroom             Habitacion
+Bathroom            Baño
+Basement            Sotano
+Backyard            Patio trasero
+
+
+
+

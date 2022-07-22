@@ -15,10 +15,10 @@ They are friends
 He is my brother
 
 
-I       Yo                      Primera persona
-You     Tu Usted Ustedes        Tercera persona
-He      El                      Tercera Persona
-She     Ella                    Tercera Persona
+I       Yo                      Primera persona del singular
+You     Tu Usted Ustedes        Tercera persona del singular
+He      El                      Tercera Persona del singular
+She     Ella                    Tercera Persona del singular
 It      Eso, Esa, Ese           
 We      Nosotros (as)
 They    Ellos

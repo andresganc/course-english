@@ -1,55 +1,57 @@
 
-# VERB              PRONUNCIATION           TRANSLATION
+# VERB                  TRANSLATION                 PRONUNCIATION
 
-Bake                bāk                     Hornear
+Bake                    Hornear                     bāk
 
-Bathe               bāT͟H                    Bañarse
+Bathe                   Bañarse                     bāT͟H
 
-Be                  bē                      Ser - Estar
+Be                      Ser - Estar                 bē 
 
-Bear                ber                     Soportar
+Bear                    Soportar                    ber
 
-Beat                bēt                     Derrotar - Vencer
+Beat                    Derrotar - Vencer           bēt
 
-Become              bəˈkəm                   Convertirse en
+Become                  Convertirse                 enbəˈkəm
 
-Befall              bəˈfôl                   Acontecer
+Befall                  Acontecer                   bəˈfôl
 
-Begin               biˈɡin                   Comenzar
+Begin                   Comenzar                    biˈɡin
 
-Behold              bəˈhōld                  Mirar - Observar
+Behold                  Mirar - Observar            bəˈhōld
 
-Believe             bəˈlēv                   Creer
+Believe                 Creer                       bəˈlēv
 
-Belong              bəˈlôNG                  Pertenecer
+Belong                  Pertenecer                  bəˈlôNG
 
-Bend                bend                    Doblar
+Bend                    Doblar                      bend
 
-Bet                 bet                     Apuesta
+Bet                     Apuesta                     bet
 
-Bid                 bid                     Mandar - Ordenar - Licitacion
+Bid                     Mandar - Ordenar            bid
 
-Bind                bīnd                    Unir
+Bind                    Unir                        bīnd
 
-Bite                bīt                     Morder - Mordida
+Bite                    Morder - Mordida            bīt
 
-Bleed               blēd                    Sangrar
+Bleed                   Sangrar                     blēd
 
-Blow                blō                     Soplar - Ventear
+Blow                    Soplar - Ventear            blō
 
-Blush               bləSH                   Sonrojar - Rubor
+Blush                   Sonrojar - Rubor            bləSH
 
-Boil                boil                    Hervir
+Boil                    Hervir                      boil
 
-Borrow              bärō                    Pedir prestado
+Born                    Nacer
 
-Bother              ˈbäT͟Hər                  Molestar
+Borrow                  Pedir prestado              bärō
 
-Break               brāk                    Descanso - Romper - Quebrar
+Bother                  Molestar                    ˈbäT͟Hər
 
-Breed               brēd                    Criar - Educar
+Break                   Descanso - Romper - Quebrar brāk
 
-Bumped into         bumped into             Chocó contra
+Breed                   Criar - Educar              brēd
+
+Bumped into             Chocó contra                bumped into
 
 
 

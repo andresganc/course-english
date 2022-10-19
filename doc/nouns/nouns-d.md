@@ -1,5 +1,7 @@
 
-# NOUNS              PRONUNCIATION           TRANSLATION
+# NOUNS             PRONUNCIATION           TRANSLATION
+
+Dinningroom         Comedor  
 
 Desert              dəˈzərt                  Desierto
 

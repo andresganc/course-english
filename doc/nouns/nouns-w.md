@@ -1,4 +1,4 @@
 
-# NOUNS              PRONUNCIATION           TRANSLATION
+# NOUNS                 TRANSLATION                 PRONUNCIATION
 
-waiter              wādər                    Mesero
+waiter                  Mesero                      wādər 

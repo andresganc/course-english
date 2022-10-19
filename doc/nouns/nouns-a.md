@@ -1,4 +1,4 @@
 
 # NOUNS                 TRANSLATION                 PRONUNCIATION
 
-Attic               Atico
+Attic                   Atico

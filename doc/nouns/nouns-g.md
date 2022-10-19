@@ -1,4 +1,4 @@
 
-# NOUNS              PRONUNCIATION           TRANSLATION
+# NOUNS                 TRANSLATION                 PRONUNCIATION
 
-Garlic              ɡärlik                  Ajo
+Garlic                  Ajo                         ɡärlik

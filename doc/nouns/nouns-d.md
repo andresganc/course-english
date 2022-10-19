@@ -1,10 +1,10 @@
 
-# NOUNS             PRONUNCIATION           TRANSLATION
+# NOUNS                 TRANSLATION                 PRONUNCIATION 
 
-Dinningroom         Comedor  
+Dinningroom             Comedor  
 
-Desert              dəˈzərt                  Desierto
+Desert                  Desierto                    dəˈzərt
 
-Desserts            dəˈzərt                  Postre
+Desserts                Postre                      dəˈzərt
 
-Dishes              dishes                  Platos
+Dishes                  Platos                      dishes

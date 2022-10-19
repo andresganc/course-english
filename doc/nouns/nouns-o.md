@@ -1,2 +1,2 @@
 
-# NOUNS             PRONUNCIATION           TRANSLATION
+# NOUNS                 TRANSLATION                   PRONUNCIATION 

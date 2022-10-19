@@ -1,4 +1,4 @@
 
-# NOUNS             PRONUNCIATION           TRANSLATION
+# NOUNS                 TRANSLATION                 PRONUNCIATION
 
-Kitchen                                         Cocina
+Kitchen                 Cocina

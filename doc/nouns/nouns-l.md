@@ -1,2 +1,4 @@
 
-# NOUNS             PRONUNCIATION           TRANSLATION
+# NOUNS                 TRANSLATION                 PRONUNCIATION 
+
+Livingroom              Sala

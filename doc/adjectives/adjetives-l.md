@@ -1,4 +1,3 @@
 
-# ADJETIVES             PRONUNCIATION           TRANSLATION
+# ADJETIVES                 TRANSLATION                 PRONUNCIATION 
 
-Livingroom                                      Sala

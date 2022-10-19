@@ -1,2 +1,4 @@
 
-# NOUNS             PRONUNCIATION           TRANSLATION
+# NOUNS                 PRONUNCIATION                   TRANSLATION
+
+Sofa                    Sofa    

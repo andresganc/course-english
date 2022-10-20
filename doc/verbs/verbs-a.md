@@ -1,5 +1,5 @@
 
-# VERB                  TRANSLATION                             PRONUNCIATION
+# VERB                  TRANSLATION                             PRONUNCIATION           CLASSIFICATION          PAST TIME
 
 Abide                   Morar - Habitar - Tolerar               əˈbīd         
 

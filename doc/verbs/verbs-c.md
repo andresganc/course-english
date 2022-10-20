@@ -1,4 +1,6 @@
 
-# VERB              TRANSLATION                 PRONUNCIATION
+# VERB                  TRANSLATION                 PRONUNCIATION           CLASSIFICATION          PAST TIME
 
-Chop                Cortar - Picar
+Call                    Llamar                                              Regular               
+
+Chop                    Cortar - Picar                                      Regular

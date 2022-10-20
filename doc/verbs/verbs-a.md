@@ -1,37 +1,37 @@
 
-# VERB                  PRONUNCIATION                   TRANSLATION
+# VERB                  TRANSLATION                             PRONUNCIATION
 
-Abide                   Morar - Habitar - Tolerar       əˈbīd         
+Abide                   Morar - Habitar - Tolerar               əˈbīd         
 
-Absorb                  Absorber                        əbˈzôrb      
+Absorb                  Absorber                                əbˈzôrb      
 
-Add                     Agregar - Sumar - Añadir        ad          
+Add                     Agregar - Sumar - Añadir                ad          
 
-Advanced                Avanzar                         ədˈvanst 
+Advanced                Avanzar                                 ədˈvanst 
 
 Agree                   Estar de acuerdo - Acceder - Acordar    əˈɡrē
 
-Answer                  Responder - Contestar           ˈansər
+Answer                  Responder - Contestar                   ˈansər
 
-Appear                  Aparecer                        əˈpir
+Appear                  Aparecer                                əˈpir
 
-Arise                   Alzarse - Surgir - Levantarse   əˈrīz
+Arise                   Alzarse - Surgir - Levantarse           əˈrīz
 
-Arrive                  Llegar                          əˈrīv
+Arrive                  Llegar                                  əˈrīv
 
-Ask                     Preguntar                       ask
+Ask                     Preguntar                               ask
 
-Assign                  Asignar                         əˈsīnmənt
+Assign                  Asignar                                 əˈsīnmənt
 
-Assist                  Asistir - Precenciar            əˈsist  
+Assist                  Asistir - Precenciar                    əˈsist  
 
-Attach                  Adjuntar                        əˈtaCH 
+Attach                  Adjuntar                                əˈtaCH 
 
-Attend                  Atender                         əˈtend
+Attend                  Atender                                 əˈtend
 
-Awake                   Despierta                       əˈwāk
+Awake                   Despierta                               əˈwāk
 
-Award                   Otorgar                         əˈwôrd
+Award                   Otorgar                                 əˈwôrd
 
 
 

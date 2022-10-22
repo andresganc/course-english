@@ -1,6 +1,6 @@
 
-# ADJECTIVE              TRANSLATION                PRONUNCIATION           
+# ADJECTIVE                 TRANSLATION                 PRONUNCIATION           
 
-Small                    Pequeña                    smôl
-Slowly                   Lento
+Small                       Pequeña                     smôl
+Slowly                      Lento
                 

@@ -1,2 +1,2 @@
 
-# ADJETIVES             TRANSLATION             PRONUNCIATION
+# ADJETIVES                 TRANSLATION                 PRONUNCIATION

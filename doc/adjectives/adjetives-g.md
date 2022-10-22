@@ -1,4 +1,4 @@
 
-# ADJETIVES             PRONUNCIATION           TRANSLATION
+# ADJETIVES                 TRANSLATION                 PRONUNCIATION
 
-Garden                                          Jardin
+Garden                      Jardin

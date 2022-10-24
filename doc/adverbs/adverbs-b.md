@@ -18,3 +18,8 @@ boastfully               jactanciosamente
 boldly                   valientemente
 
 bravely                  valientemente
+
+briefly                  Brevemente
+
+Brightly                 Brillantemente
+

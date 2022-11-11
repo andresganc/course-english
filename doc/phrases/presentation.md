@@ -13,5 +13,8 @@ Mucho gusto
 Nice to meet you to
 Mucho gusto tambien
 
+See you around
+Nos vemos por ahi
+
 
 

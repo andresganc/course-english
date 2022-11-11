@@ -19,7 +19,8 @@ Nos vemos por ahi
 Do you remember
 Te acuerdas
 
-Do you
+Do you remember me
+Te acuerdas de mi / Me recuerdas
 
 
 

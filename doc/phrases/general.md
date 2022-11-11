@@ -7,3 +7,6 @@ Como te atreves
 
 Any News
 Alguna noticia
+
+They quarreled
+Se pelearon

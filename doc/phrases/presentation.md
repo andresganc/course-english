@@ -16,6 +16,10 @@ Mucho gusto tambien
 See you around
 Nos vemos por ahi
 
+Do you remember
+Te acuerdas
+
+Do you
 
 
 

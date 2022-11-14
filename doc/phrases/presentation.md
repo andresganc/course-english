@@ -22,5 +22,11 @@ Te acuerdas
 Do you remember me
 Te acuerdas de mi / Me recuerdas
 
+What were you doing then?
+Que estabas haciendo entonces?
+
+The lecture gripped the audience
+La conferencia atrapo a la audiencia
+
 
 

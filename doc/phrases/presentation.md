@@ -13,6 +13,12 @@ Mucho gusto
 Nice to meet you to
 Mucho gusto tambien
 
+I'm with him
+Estoy con el
+
+I know who you are
+Yo se quien eres
+
 See you around
 Nos vemos por ahi
 

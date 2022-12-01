@@ -34,5 +34,10 @@ Que estabas haciendo entonces?
 The lecture gripped the audience
 La conferencia atrapo a la audiencia
 
+Thanks for coming
+Gracias por venir
+
+
+
 
 

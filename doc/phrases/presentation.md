@@ -37,7 +37,8 @@ La conferencia atrapo a la audiencia
 Thanks for coming
 Gracias por venir
 
-
+He is a tall and handsome young man
+Es un joven alto y guapo
 
 
 

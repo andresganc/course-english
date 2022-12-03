@@ -40,5 +40,8 @@ Gracias por venir
 He is a tall and handsome young man
 Es un joven alto y guapo
 
+There are none of us who do not respect his honesty
+No hay ninguno de nosotros que no respete su honestidad
+
 
 

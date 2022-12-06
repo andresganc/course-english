@@ -16,3 +16,6 @@ Por favor encuentrame mi abrigo
 
 The plan was a good one apart from its cost
 El plan era bueno, aparte de su costo
+
+A good thing that seemed bad at first
+Algo bueno que al principio parecía malo

@@ -19,3 +19,6 @@ El plan era bueno, aparte de su costo
 
 A good thing that seemed bad at first
 Algo bueno que al principio parecía malo
+
+Can you imagine what the 21st century will be like
+¿Te imaginas cómo será el siglo XXI?

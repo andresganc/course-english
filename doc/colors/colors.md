@@ -13,4 +13,11 @@ Coral                           Coral
 Crimson                         Carmesi
 Dark Gray                       Gris Oscuro
 Gold                            Oro
-Gray                            Gris                     
+Gray                            Gris   
+Green                           Verde
+Orange                          Naranja
+Pink                            Rosado
+Purple                          Morado
+Red                             Rojo
+Yellow                          Amarillo
+                  

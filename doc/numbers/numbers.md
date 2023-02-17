@@ -49,3 +49,5 @@
 555 five hundred and fifty – five (faiv hándred an fífti faiv)
 963 nine hundred and sixty – three (náin hundred an sixti zrii)
 
+1000 one thousand
+

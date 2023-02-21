@@ -50,4 +50,7 @@
 963 nine hundred and sixty – three (náin hundred an sixti zrii)
 
 1000 one thousand
+1001 one thousand one
+1011 one thousand eleven
+1020 one thousand twenty
 

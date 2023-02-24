@@ -54,4 +54,5 @@
 1011 one thousand eleven
 1020 one thousand twenty
 1030 one thousand thirty
+1040 one thousand forty
 

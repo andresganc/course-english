@@ -55,4 +55,4 @@
 1020 one thousand twenty
 1030 one thousand thirty
 1040 one thousand forty
-
+1050 one thousand fifty

@@ -1,3 +1,4 @@
 
 # ADJETIVES                 TRANSLATION                 PRONUNCIATION 
 
+

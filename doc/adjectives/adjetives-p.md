@@ -1,2 +1,4 @@
 
-# ADJETIVES                 TRANSLATION                 PRONUNCIATION           
+# ADJETIVES                 TRANSLATION                 PRONUNCIATION    
+
+Powerful                    Poderoso

@@ -35,6 +35,8 @@ Bite                    Morder - Mordida            bīt
 
 Bleed                   Sangrar                     blēd
 
+Blossom                 Florecer
+
 Blow                    Soplar - Ventear            blō
 
 Blush                   Sonrojar - Rubor            bləSH

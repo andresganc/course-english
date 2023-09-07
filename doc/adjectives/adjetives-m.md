@@ -1,4 +1,6 @@
 
 # ADJETIVES                 TRANSLATION                 PRONUNCIATION           
 
-Main course                 Plato principal             mān ˈˌkôrs               
+Main course                 Plato principal             mān ˈˌkôrs     
+
+Mighty                      Poderoso

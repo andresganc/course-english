@@ -1,4 +1,6 @@
 
 # ADVERBS                TRANSLATION                 PRONUNCIATION
 
-never                    Nunca
+Never                    Nunca
+
+Nevertheless             Sin Embargo

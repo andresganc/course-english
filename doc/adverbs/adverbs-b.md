@@ -5,6 +5,8 @@ bashfully                encogidamente
 
 beautifully              hermosamente
 
+Became                   Se convirtio en
+
 bitterly                 amargamente
 
 bleakly                  desoladamente

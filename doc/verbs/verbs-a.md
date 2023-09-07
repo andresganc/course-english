@@ -11,6 +11,8 @@ Advanced                Avanzar                                 ədˈvanst
 
 Agree                   Estar de acuerdo - Acceder - Acordar    əˈɡrē
 
+Amuse                   Entretener
+
 Answer                  Responder - Contestar                   ˈansər
 
 Appear                  Aparecer                                əˈpir

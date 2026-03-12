@@ -4,3 +4,5 @@
 Call                    Llamar                                              Regular               
 
 Chop                    Cortar - Picar                                      Regular
+
+Cross                   Cruzar / Atravesar

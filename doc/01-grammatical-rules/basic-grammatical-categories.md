@@ -142,3 +142,6 @@ Man	    Hombre      →   William
 Cat	    Gato-gata   →   Max
 City	Ciudad      →   Rome (Roma)
 Planet	Planeta     →   Pluto (Plutón)
+
+
+###

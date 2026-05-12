@@ -341,3 +341,115 @@ When does your sister work?
 What time is it?
 ¿Qué hora es?
 
+
+
+* Who
+
+- Pregunta por alguien, por una persona. Con la pregunta WHO, se busca obtener un nombre, ya sea propio o común, que indique al sujeto u objeto. Corresponde a las preguntas "¿quién?" o "¿a quién?".
+
+For example:
+
+Who do you know?
+¿A quién conoces?
+
+Who do you work for?
+¿Para quién trabajas?
+
+Who lives here?
+¿Quién vive aquí?
+
+Warning! / ¡Advertencia!
+
+- Cuando se usa WHO para buscar el sujeto de la oración y no el objeto, la pregunta no tiene ni sujeto ni auxiliar en los tiempos simples; sin embargo, el verbo se conjuga como tercera persona del singular.
+
+
+* Why
+
+- Pregunta por un motivo o una razón. Corresponde a la pregunta "¿por qué?".
+
+For example:
+
+Why do you behave like this?
+¿Por qué te comportas así?
+
+Why is the sky so gray?
+¿Por qué el cielo está tan gris?
+
+Why not?
+¿Por qué no?
+
+
+* How
+
+- Pregunta por el modo o la forma en que se realiza una acción. Corresponde a la pregunta "¿cómo?".
+
+For example:
+
+How do you learn?
+¿Cómo aprendes?
+
+How does it work?
+¿Cómo funciona eso?
+
+How do you clean your house?
+¿Cómo limpias tu casa?
+
+Warning! / ¡Advertencia!
+- Cuando se usa con complementos, puede cambiar radicalmente su significado según el complemento y el tiempo gramatical en el que aparezca. Puede aparecer en oraciones como:
+
+How are you?
+¿Cómo estás?
+
+How old are you?
+¿Cuántos años tienes?
+
+How much ice cream do you want?
+¿Cuánto helado quieres?
+
+
+### Estructura preguntas informativas
+
+WH Word     Auxiliar        Sujeto      Verbo       Complemento     ?
+
+What        do              you         buy         in the mall     What do you buy In the mall
+
+Where       does            she         go          on weekends     Where does she go on weekends
+
+
+### Resumen de conjugación de estructuras
+
+- Present Simple: to eat (comer)
+
+* Afirmativa
+    I eat rice every day.
+    You eat rice every day.
+    He eats rice every day.
+    She eats rice every day.
+    It eats rice every day.
+    You eat rice every day.
+    We eat rice every day.
+    They eat rice every day.
+
+
+* Negativa
+    I do not eat rice every day.
+    You do not eat rice every day.
+    He does not eat rice every day.
+    She does not eat rice every day.
+    It does not eat rice every day.
+    You do not eat rice every day.
+    We do not eat rice every day.
+    They do not eat rice every day.
+
+
+* Interrogativa
+    Do I eat rice every day?
+    Do you eat rice every day?
+    Does he eat rice every day?
+    Does she eat rice every day?
+    Does it eat rice every day?
+    Do you eat rice every day?
+    Do we eat rice every day?
+    Do they eat rice every day?
+
+

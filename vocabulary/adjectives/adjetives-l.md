@@ -1,3 +1,4 @@
 
-# ADJETIVES                 TRANSLATION                 PRONUNCIATION 
+# ADJETIVES                 TRANSLATION                     PRONUNCIATION 
 
+Look                        Mirar, Aspecto, Apariencia

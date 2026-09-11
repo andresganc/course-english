@@ -3,3 +3,4 @@
 
 Unlikely                    Improbable
 Unshaven                    Sombra de barba
+Useful                      Util

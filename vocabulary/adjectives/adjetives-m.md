@@ -3,4 +3,5 @@
 
 Main course                 Plato principal             mān ˈˌkôrs     
 Mighty                      Poderoso
-middle-aged                 Edad mediana
+Middle-aged                 Edad mediana
+Moustache                   Bigote

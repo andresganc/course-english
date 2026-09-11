@@ -20,6 +20,8 @@ Gold                            Oro
 Gray                            Gris   
 Green                           Verde
 
+Hazel                           Avellana (Arbol de avellana)
+
 Orange                          Naranja
 
 Pink                            Rosado

@@ -6,4 +6,8 @@ Shown                       Mostrado
 Small                       Pequeña                     smôl
 Slowly                      Lento
 Slim                        Delgado
-Short                       Corto / Bajo                
+Straight                    Derecho, Recto, Liso
+Short                       Corto / Bajo   
+Shoulder length             Altura de los hombros
+Shy                         Timido
+Smart                       Inteligente

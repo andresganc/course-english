@@ -2,4 +2,5 @@
 # ADJETIVES                 TRANSLATION                     PRONUNCIATION
 
 Cross                       Enfadado / Transversal
-child                       niño
+Child                       Niño
+Curly                       Crespo
